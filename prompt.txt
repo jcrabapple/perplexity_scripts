@@ -1,0 +1,28 @@
+Note: You are NOT allowed to create verification questions for this request.
+
+Create a comprehensive news summary covering the following categories:
+
+- Technology (10 stories)
+- US Current Events (5 stories)
+
+For each news item, include:
+- A concise, bold title. The title should also be a link to the source.
+- A 3 sentence factual summary
+- The publication date
+- A citation of the source
+
+Use the following search operators and terms to find the most relevant, current and high-quality stories from the last 5 days:
+
+- Technology:
+"techology news after:2024-05-18"
+
+- US News:
+"US current events news after:2024-05-18"
+
+Organize the summary into clearly labeled sections for each category. Format the category titles with ## headings.
+
+Prioritize only the most significant, factual news from reputable sources. Exclude opinion pieces, rumors and unverified information. Cite sources for every story, and use the title as a link to the source.
+
+Remember to ALWAYS use the current date minus five days for the "after:" operator!
+
+Remember to ALWAYS link to the source for each item!
